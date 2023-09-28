@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MasPujo
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning web developer and software dev too
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
